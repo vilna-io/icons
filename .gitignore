@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon files created by Finder
+Icon?
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.log
